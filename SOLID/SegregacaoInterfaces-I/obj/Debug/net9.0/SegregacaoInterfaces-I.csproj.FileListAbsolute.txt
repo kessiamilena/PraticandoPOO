@@ -1,0 +1,15 @@
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\bin\Debug\net9.0\SegregacaoInterfaces-I.exe
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\bin\Debug\net9.0\SegregacaoInterfaces-I.deps.json
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\bin\Debug\net9.0\SegregacaoInterfaces-I.runtimeconfig.json
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\bin\Debug\net9.0\SegregacaoInterfaces-I.dll
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\bin\Debug\net9.0\SegregacaoInterfaces-I.pdb
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.AssemblyInfoInputs.cache
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.AssemblyInfo.cs
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.csproj.CoreCompileInputs.cache
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.sourcelink.json
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.dll
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\obj\Debug\net9.0\refint\SegregacaoInterfaces-I.dll
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.pdb
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\obj\Debug\net9.0\SegregacaoInterfaces-I.genruntimeconfig.cache
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SegregacaoInterfaces-I\obj\Debug\net9.0\ref\SegregacaoInterfaces-I.dll
