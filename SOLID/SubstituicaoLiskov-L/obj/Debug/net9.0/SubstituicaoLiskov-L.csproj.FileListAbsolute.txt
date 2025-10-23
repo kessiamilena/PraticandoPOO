@@ -1,0 +1,15 @@
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\bin\Debug\net9.0\SubstituicaoLiskov-L.exe
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\bin\Debug\net9.0\SubstituicaoLiskov-L.deps.json
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\bin\Debug\net9.0\SubstituicaoLiskov-L.runtimeconfig.json
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\bin\Debug\net9.0\SubstituicaoLiskov-L.dll
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\bin\Debug\net9.0\SubstituicaoLiskov-L.pdb
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.AssemblyInfoInputs.cache
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.AssemblyInfo.cs
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.csproj.CoreCompileInputs.cache
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.sourcelink.json
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.dll
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\refint\SubstituicaoLiskov-L.dll
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.pdb
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\SubstituicaoLiskov-L.genruntimeconfig.cache
+C:\Users\Senaisp\Desktop\Atividade POO\SOLID\SubstituicaoLiskov-L\obj\Debug\net9.0\ref\SubstituicaoLiskov-L.dll
