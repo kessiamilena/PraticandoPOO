@@ -1,0 +1,15 @@
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\obj\Debug\net9.0\atividade4_comparacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\obj\Debug\net9.0\atividade4_comparacao.AssemblyInfoInputs.cache
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\obj\Debug\net9.0\atividade4_comparacao.AssemblyInfo.cs
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\obj\Debug\net9.0\atividade4_comparacao.csproj.CoreCompileInputs.cache
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\obj\Debug\net9.0\atividade4_comparacao.sourcelink.json
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\bin\Debug\net9.0\atividade4_comparacao.exe
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\bin\Debug\net9.0\atividade4_comparacao.deps.json
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\bin\Debug\net9.0\atividade4_comparacao.runtimeconfig.json
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\bin\Debug\net9.0\atividade4_comparacao.dll
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\bin\Debug\net9.0\atividade4_comparacao.pdb
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\obj\Debug\net9.0\atividade4_comparacao.dll
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\obj\Debug\net9.0\refint\atividade4_comparacao.dll
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\obj\Debug\net9.0\atividade4_comparacao.pdb
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\obj\Debug\net9.0\atividade4_comparacao.genruntimeconfig.cache
+C:\Users\Senaisp\Desktop\Atividade POO\atividade4_comparacao\obj\Debug\net9.0\ref\atividade4_comparacao.dll
